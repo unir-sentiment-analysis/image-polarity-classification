@@ -18,10 +18,10 @@ The dataset is a subset of 10.000 images from https://data.world/crowdflower/ima
   
 | Label         | Dataset Polarity Classification - Images by class   |
 |---------------|-----------------------------------------------------|
-| Positive      | 6147                                                |
-| Negative      | 1960                                                |
-| Neutral       | 1893                                                |
-| **Total**     | **10000**                                           |
+| Positive      | 6.147                                                |
+| Negative      | 1.960                                                |
+| Neutral       | 1.893                                                |
+| **Total**     | **10.000**                                           |
 
 **Dataset Images (drive):** https://drive.google.com/drive/folders/17l3rzzz9wcI-IXIBCO22XlKlD_3yliji?usp=sharing
 
