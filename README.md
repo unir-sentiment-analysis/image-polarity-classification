@@ -23,7 +23,7 @@ The dataset is a subset of 10.000 images from https://data.world/crowdflower/ima
 | Neutral       | 1893                                                |
 | **Total**     | **10000**                                           |
 
-Dataset Images (drive): https://drive.google.com/drive/folders/17l3rzzz9wcI-IXIBCO22XlKlD_3yliji?usp=sharing
+**Dataset Images (drive):** https://drive.google.com/drive/folders/17l3rzzz9wcI-IXIBCO22XlKlD_3yliji?usp=sharing
 
 **Colab**
 ***
