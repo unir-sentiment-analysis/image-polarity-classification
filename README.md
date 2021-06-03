@@ -9,3 +9,13 @@ _This site is the repository to host the Jupyter-Notebooks to perform a comparis
 
 Este sitio es el repositorio para alojar los Jupyter-Notebook para realizar un comparativo usando redes neuronales convolutivas y transformadores para la clasificación de imágenes según su polaridad de sentimientos: positiva, negativa y neutral.
   
+
+Colab
+***
+
+| # | Experiment                      | Colab    |
+|---|---------------------------------|----------|
+| 1 | Convolutional Neural network #1 | https:// |
+| 2 | Convolutional Neural network #2 | https:// |
+| 3 | Transformer Neural network #1   | https:// |
+| 4 | Transformer Neural network #2   | https:// |
