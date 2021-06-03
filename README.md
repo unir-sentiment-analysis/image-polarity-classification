@@ -1,17 +1,17 @@
-**_Sentiment polarity analysis in images using convolutional and transformers neural networks._**
+**_Project: Sentiment polarity analysis in images using convolutional and transformers neural networks._**
 
 _This site is the repository to host the Jupyter-Notebooks to perform a comparison using convolutional neural networks and transformers for the classification of images according to their sentiment polarity: positive, negative and neutral._
 
 
 ***
 
-**Análisis de polaridad de sentimientos en imágenes usando redes neuronales convolutivas y transformadores.**
+**Proyecto: Análisis de polaridad de sentimientos en imágenes usando redes neuronales convolutivas y transformadores.**
 
 Este sitio es el repositorio para alojar los Jupyter-Notebook para realizar un comparativo usando redes neuronales convolutivas y transformadores para la clasificación de imágenes según su polaridad de sentimientos: positiva, negativa y neutral.
 
 ***
 
-**Dataset**
+**1. Dataset**
 ***
 
 The dataset is a subset of 10.000 images from https://data.world/crowdflower/image-sentiment-polarity
@@ -25,7 +25,9 @@ The dataset is a subset of 10.000 images from https://data.world/crowdflower/ima
 
 **Dataset Images (drive):** https://drive.google.com/drive/folders/17l3rzzz9wcI-IXIBCO22XlKlD_3yliji?usp=sharing
 
-**Colab**
+
+***
+**2. Colab**
 ***
 
 | # | Experiment                      | Colab    |
