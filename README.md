@@ -30,9 +30,11 @@ The dataset is a subset of 10.000 images from https://data.world/crowdflower/ima
 **2. Colab**
 ***
 
-| # | Experiment                      | Colab    |
+| Id. | Neural Network                      | Colab    |
 |---|---------------------------------|----------|
-| 1 | Convolutional Neural network #1 | https:// |
-| 2 | Convolutional Neural network #2 | https:// |
-| 3 | Transformer Neural network #1   | https:// |
-| 4 | Transformer Neural network #2   | https:// |
+| 1 CNN-1 | Convolutional Neural network No. 1  | https:// |
+| 2 CNN-2| Convolutional Neural network No. 2   | https:// |
+| 3 CNN-3| Convolutional Neural network No. 3   | https:// |
+| 4 ViTNN-1 | Transformer Neural network No. 1  | https:// |
+| 5 ViTNN-2| Transformer Neural network No. 2   | https:// |
+| 6 ViTNN-3| Transformer Neural network No. 3   | https:// |
