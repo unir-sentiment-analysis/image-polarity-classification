@@ -33,8 +33,8 @@ The dataset is a subset of 10.000 images from https://data.world/crowdflower/ima
 | Id. | Neural Network                      | Colab    |
 |---|---------------------------------|----------|
 | 1 CNN-1 | Convolutional Neural network No. 1  | https://colab.research.google.com/drive/14ZoDSEJKxaeT4NOMG-WA5TZVzRE0_EJ_?usp=sharing |
-| 2 CNN-2| Convolutional Neural network No. 2   | https:// |
-| 3 CNN-3| Convolutional Neural network No. 3   | https:// |
+| 2 CNN-2| Convolutional Neural network No. 2   | https://colab.research.google.com/drive/1Y5-x4GQYr4O61LGyiujYsM7qLO4X0aB_?usp=sharing |
+| 3 CNN-3| Convolutional Neural network No. 3   | https://colab.research.google.com/drive/1NSpu7RLFGHErYfpJsBtRKueOy6aEWFHG?usp=sharing |
 | 4 ViTNN-1 | Transformer Neural network No. 1  | https:// |
 | 5 ViTNN-2| Transformer Neural network No. 2   | https:// |
 | 6 ViTNN-3| Transformer Neural network No. 3   | https:// |
