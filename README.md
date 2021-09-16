@@ -32,9 +32,11 @@ The dataset is a subset of 10.000 images from https://data.world/crowdflower/ima
 
 | Id. | Neural Network                      | Colab    |
 |---|---------------------------------|----------|
-| 1 CNN-1 | Convolutional Neural network No. 1  | https://colab.research.google.com/drive/14ZoDSEJKxaeT4NOMG-WA5TZVzRE0_EJ_?usp=sharing |
-| 2 CNN-2| Convolutional Neural network No. 2   | https://colab.research.google.com/drive/1Y5-x4GQYr4O61LGyiujYsM7qLO4X0aB_?usp=sharing |
-| 3 CNN-3| Convolutional Neural network No. 3   | https://colab.research.google.com/drive/1NSpu7RLFGHErYfpJsBtRKueOy6aEWFHG?usp=sharing |
-| 4 ViTNN-1 | Transformer Neural network No. 1  | https:// |
-| 5 ViTNN-2| Transformer Neural network No. 2   | https:// |
-| 6 ViTNN-3| Transformer Neural network No. 3   | https:// |
+| 1 CNN | Convolutional Neural network No. 1  | https://drive.google.com/file/d/1T6HVzHtLs1WqE-Eu97xO9WpUNADuG24-/view?usp=sharing |
+| 2 CNN| Convolutional Neural network No. 2   | https://drive.google.com/file/d/1_srmYK9eQenGce8NDJa3C9Xs-HTEvVrQ/view?usp=sharing |
+| 3 CNN| Convolutional Neural network No. 3   | https://drive.google.com/file/d/1BsmbHZ9DD8NzdcQeCIpXsjI-xucbHnvF/view?usp=sharing |
+| 4 CNN | Convolutional Neural network No. 4  | https://drive.google.com/file/d/1GTr3Ck-2a0RgHimOerwYGg0FfDYpuf7a/view?usp=sharing |
+| 5 ViTNN | Transformer Neural network No. 5  | https://drive.google.com/file/d/1sqCkYAnwf1N2zVO-Z6yqUHso8A3WT8qB/view?usp=sharing |
+| 6 ViTNN | Transformer Neural network No. 6   | https://drive.google.com/file/d/1MXBwpIKxiIW6pe7VOIlgc7-UhKgERaDX/view?usp=sharing |
+| 7 ViTNN | Transformer Neural network No. 7   | https://drive.google.com/file/d/1K6VIBZnA0G5675n5XM7_sO759q2Vhq6t/view?usp=sharing |
+| 8 ViTNN | Transformer Neural network No. 8   | https://drive.google.com/file/d/1pXx0ypcBYr3qgq2m5r0NAjaiegEkHo-x/view?usp=sharing |
